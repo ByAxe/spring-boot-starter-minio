@@ -22,10 +22,10 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starters</artifactId>
-        <version>2.2.0.RELEASE</version>
+        <version>2.2.5.RELEASE</version>
     </parent>
 
-    <groupId>com.jlefebure</groupId>
+    <groupId>com.jlefebure.byaxe</groupId>
     <artifactId>spring-boot-starter-minio</artifactId>
 
     <properties>
@@ -34,7 +34,7 @@
         <minio.version>6.0.11</minio.version>
     </properties>
 
-    <version>1.5-SNAPSHOT</version>
+    <version>1.5-WithoutNotifications</version>
 
     <developers>
         <developer>
